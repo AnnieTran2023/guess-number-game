@@ -14,7 +14,6 @@ If you want to play again, you can restart the game.
 HTML and CSS: The user interface files that provide the design and layout for the game.
 JavaScript Logic: The core game logic implemented in JavaScript, includes random number generation, user input handling, and feedback mechanisms.
 
-The user interface for this game, including the layout, styling, and presentation, was provided by instructor Jonas Schmedtmann on Udemy.
 
 
 
